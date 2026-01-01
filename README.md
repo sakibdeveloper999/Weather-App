@@ -8,10 +8,6 @@ GitHub : [(https://sakibdeveloper999.github.io/Weather-App/)]
 
 ---
 
-Preview: [https://sakibdeveloper999.github.io/Weather-App/]
-
----
-
 Features:
 
 * Search weather by city name
